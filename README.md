@@ -2,7 +2,7 @@
 ### Blog using Laravel and Vue
 
 
-### Business requirements:
+#### Business requirements:
 - Protected blog 
 - Allow user to login from only one device (first device that user used on registration) [depend on cookies] 
 - CRUD with soft deletes
@@ -55,6 +55,8 @@ password: admin
 - tailwind
 - vite
 - axios
+- vue-toast-notification
+- @vuepic/vue-datepicker
 
 
 
