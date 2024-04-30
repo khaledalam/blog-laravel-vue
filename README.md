@@ -48,7 +48,7 @@ password: admin
 - sanctum
 - guzzle
 - faker
----
+- ....
 - vue 3
 - vuex
 - vue-router
@@ -62,14 +62,18 @@ password: admin
 ### Screenshots:
 
 login:<br />
-<img src="./screenshots/login.png" width="300"><br />
+<img src="./screenshots/login.png" width="400"><br />
 register:<br />
-<img src="./screenshots/register.png" width="300"><br />
+<img src="./screenshots/register.png" width="400"><br />
 homepage:<br />
-<img src="./screenshots/homepage.png" width="300"><br />
+<img src="./screenshots/homepage.png" width="400"><br />
 all-blogs:<br />
-<img src="./screenshots/all-blogs.png" width="300"><br />
+<img src="./screenshots/all-blogs.png" width="400"><br />
+edit:<br />
+<img src="./screenshots/edit.png" width="400"><br />
+delete:<br />
+<img src="./screenshots/delete.png" width="400"><br />
 auth-token:<br />
-<img src="./screenshots/auth-token.png" width="300"><br />
+<img src="./screenshots/auth-token.png" width="400"><br />
 try-login-from-other:<br />
-<img src="./screenshots/try-login-from-other.png" width="300"><br />
+<img src="./screenshots/try-login-from-other.png" width="400"><br />
