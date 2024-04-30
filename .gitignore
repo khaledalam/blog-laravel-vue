@@ -19,3 +19,4 @@ yarn-error.log
 /.vscode
 .lh/
 .DS_Store
+docker/database/data
